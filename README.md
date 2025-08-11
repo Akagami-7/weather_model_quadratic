@@ -29,8 +29,3 @@ weather_model_quadratic/
 ├── inputs_single.txt
 ├── inputs_multiple.txt
 └── README.md
-
-
-
-
-
