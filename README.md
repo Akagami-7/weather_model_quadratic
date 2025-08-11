@@ -17,3 +17,15 @@ Where:
 ### Files Included
 - `inputs_single.txt`: Contains coefficients and time for a single set of inputs.
 - `inputs_multiple.txt`: Contains multiple sets of inputs to calculate temperature for each set.
+
+### Folder Structure
+weather_model_quadratic/
+│
+├── version1_hardcoded.py
+├── version2_keyboard_input.py
+├── version3_file_input_single.py
+├── version4_file_input_multiple.py
+├── inputs_single.txt
+├── inputs_multiple.txt
+└── README.md
+
